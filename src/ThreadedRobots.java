@@ -54,6 +54,8 @@ public class ThreadedRobots {
         // tell both threads to start running
         karelThread.start();
         jeffThread.start();
+        
+        // added a comment
     }
 
 }
